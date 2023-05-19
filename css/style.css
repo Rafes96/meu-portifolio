@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+
+/* cabecalho  */
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    background-color: #A020F0;
+}
+
+#cabecalho ul{
+    display: flex;
+   list-style-type: none;
+}
+#cabecalho li{
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 2em;
+}
+li:hover{
+    scale: 1.2;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER*/
+
